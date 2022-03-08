@@ -61,6 +61,8 @@ INSERT INTO `respostas` (`id`, `id_pergunta`, `resposta`, `v_f`) VALUES
 Neste capitulo sera explicada cada ficheiro e incluído o código do mesmo.  
 O código dos ficheiros está amplamente comentado com uma explicação sucinta de cada etapa.
 
+O código completo do exemplo pode ser encontrado em: [https://github.com/edgarbs1998/quiz-php-mysql-demo](https://github.com/edgarbs1998/quiz-php-mysql-demo)
+
 #### config/db.php
 
 Neste ficheiro temos as configurações de acesso à base de dados MySQL e a respetiva conexão.
